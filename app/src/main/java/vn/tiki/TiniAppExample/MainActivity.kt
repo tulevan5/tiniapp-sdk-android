@@ -1,5 +1,5 @@
 package vn.tiki.TiniAppExample
 
-import vn.tiki.tiniappsdk.TiniAppActivity
+import android.app.Activity
 
-class TiniAppActivity : TiniAppActivity()
+class TiniAppActivity : Activity()
